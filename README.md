@@ -17,7 +17,7 @@ Total Columns (Features): 24
 
 Missing Values: None (All columns have 14,900 non-null values, making it a very clean dataset).
 
-3. Dataset Features
+2. Dataset Features
 
 The 24 columns can be categorized into three main groups:
 
@@ -77,7 +77,7 @@ Target Variable:
 
 Attrition: Whether the employee "Left" or "Stayed". This is the primary outcome variable if you are trying to build predictive models.
 
-5. Key Insights from Data Statistics
+3. Key Insights from Data Statistics
 
 The workforce leans quite experienced with an average Years at Company of roughly 15.6 years.
 
