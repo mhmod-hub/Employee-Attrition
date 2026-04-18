@@ -64,6 +64,7 @@ One of the key advantages of this project was the high quality of the initial da
 - Feature Relationships: We explored how different categorical and numerical features (e.g., Work-Life Balance, Job Satisfaction, and Distance from Home) impacted the likelihood of an employee leaving the company.
 
 3. Modeling
+
 Since employee attrition prediction is a binary classification problem (Stayed vs. Left), we opted to train and evaluate multiple machine learning algorithms to compare their performance and select the one that best captured the underlying patterns in the HR data. The models implemented included:
 
 - Logistic Regression: Used as a baseline model due to its simplicity, efficiency, and high interpretability.
