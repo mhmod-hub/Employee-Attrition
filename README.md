@@ -73,9 +73,9 @@ The 24 columns can be categorized into three main groups:
 
   - Innovation Opportunities: (Yes/No)
 
-4. Target Variable:
+  4. Target Variable:
 
-Attrition: Whether the employee "Left" or "Stayed". This is the primary outcome variable if you are trying to build predictive models.
+  - Attrition: Whether the employee "Left" or "Stayed". This is the primary outcome variable if you are trying to build predictive models.
 
 3. Key Insights from Data Statistics
 
