@@ -10,44 +10,79 @@ The objective of this project is to develop a machine learning classification mo
 
 ## Dataset
 1. General Overview
+
 Total Rows (Records): 14,900 employees
+
 Total Columns (Features): 24
+
 Missing Values: None (All columns have 14,900 non-null values, making it a very clean dataset).
 
-2. Dataset Features
+3. Dataset Features
+
 The 24 columns can be categorized into three main groups:
+
 Demographics & Personal Info:
+
 Age: Ranging from 18 to 59 years (Average: 38 years).
+
 Gender: Male, Female, etc.
+
 Marital Status: Married, Single, Divorced.
+
 Number of Dependents: Ranges from 0 to 6.
+
 Distance from Home: Distance of the employee's commute (ranges from 1 to 99 units/miles).
+
 Education Level: E.g., Associate Degree, Bachelor's Degree, Master's Degree.
+
 Employment details:
+
 Employee ID: Unique identifier for each employee.
+
 Job Role: The department/field (e.g., Healthcare, Education, Finance, Media, Technology).
+
 Job Level: Entry, Mid, Senior.
+
 Years at Company: Ranges from 1 to 51 years (Average: ~15.6 years).
+
 Company Tenure: Overall tenure length (Ranges from 2 to 127 months).
+
 Monthly Income: Salary ranging from 1,226 to 15,063 (Average: ~7,287).
+
 Number of Promotions: Number of times promoted (0 to 4 times).
+
 Company Size: Small, Medium, Large.
+
 Remote Work: Indicates if they work remotely (Yes/No).
+
 Overtime: Indicates if they regularly work overtime (Yes/No).
+
 Satisfaction & Environment Metrics:
+
 Work-Life Balance: Excellent, Good, Fair, Poor.
+
 Job Satisfaction: Very High, High, Medium, Low.
+
 Performance Rating: Average, High, etc.
+
 Company Reputation: Poor, Good, etc.
+
 Employee Recognition: Low, Medium, High.
+
 Leadership Opportunities: (Yes/No)
+
 Innovation Opportunities: (Yes/No)
+
 Target Variable:
+
 Attrition: Whether the employee "Left" or "Stayed". This is the primary outcome variable if you are trying to build predictive models.
 
-3. Key Insights from Data Statistics
+5. Key Insights from Data Statistics
+
 The workforce leans quite experienced with an average Years at Company of roughly 15.6 years.
+
 There is a wide variance in Monthly Income (as low as 1,226 and as high as 15,063), aligning with the presence of multiple job levels (Entry to Senior).
+
 The average employee commute (Distance from Home) is roughly 50 units.
 
 ## Methodology
