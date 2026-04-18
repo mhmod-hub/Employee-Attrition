@@ -101,7 +101,7 @@ The objective of this project is to develop a machine learning classification mo
 
 3. Modeling
 
-Since employee attrition prediction is a binary classification problem (Stayed vs. Left), we opted to train and evaluate multiple machine learning algorithms to compare their performance and select the one that best captured the underlying patterns in the HR data. The models implemented included:
+    Since employee attrition prediction is a binary classification problem (Stayed vs. Left), we opted to train and evaluate multiple machine learning algorithms to compare their performance and select the one that best captured the underlying patterns in the HR data. The models implemented included:
 
 - Logistic Regression: Used as a baseline model due to its simplicity, efficiency, and high interpretability.
 
