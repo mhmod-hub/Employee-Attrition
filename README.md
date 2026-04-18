@@ -79,11 +79,11 @@ The objective of this project is to develop a machine learning classification mo
 
 3. Key Insights from Data Statistics
 
-The workforce leans quite experienced with an average Years at Company of roughly 15.6 years.
+    The workforce leans quite experienced with an average Years at Company of roughly 15.6 years.
 
-There is a wide variance in Monthly Income (as low as 1,226 and as high as 15,063), aligning with the presence of multiple job levels (Entry to Senior).
+    There is a wide variance in Monthly Income (as low as 1,226 and as high as 15,063), aligning with the presence of multiple job levels (Entry to Senior).
 
-The average employee commute (Distance from Home) is roughly 50 units.
+    The average employee commute (Distance from Home) is roughly 50 units.
 
 ## Methodology
 1. Data Cleaning
