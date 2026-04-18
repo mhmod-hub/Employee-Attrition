@@ -109,7 +109,7 @@ The objective of this project is to develop a machine learning classification mo
 
     - XGBoost: A powerful gradient boosting framework utilized to maximize predictive accuracy and handle complex feature interactions.
 
-- Hyperparameter Tuning: We utilized Random Search (RandomizedSearchCV) across our models to systematically fine-tune hyperparameters. This step ensured we achieved the highest possible accuracy and generalization without overfitting the training data.
+    - Hyperparameter Tuning: We utilized Random Search (RandomizedSearchCV) across our models to systematically fine-tune hyperparameters. This step ensured we achieved the highest possible accuracy and generalization without overfitting the training data.
 
     Each model was evaluated to ensure the final selected algorithm was highly reliable in identifying at-risk employees.
 
