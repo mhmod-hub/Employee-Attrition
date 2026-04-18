@@ -21,7 +21,7 @@ Missing Values: None (All columns have 14,900 non-null values, making it a very 
 
 The 24 columns can be categorized into three main groups:
 
-1. Demographics & Personal Info:
+  1. Demographics & Personal Info:
 
 - Age: Ranging from 18 to 59 years (Average: 38 years).
 
@@ -35,7 +35,7 @@ The 24 columns can be categorized into three main groups:
 
 - Education Level: E.g., Associate Degree, Bachelor's Degree, Master's Degree.
 
-2. Employment details:
+  2. Employment details:
 
 - Employee ID: Unique identifier for each employee.
 
@@ -57,7 +57,7 @@ The 24 columns can be categorized into three main groups:
 
 - Overtime: Indicates if they regularly work overtime (Yes/No).
 
-3. Satisfaction & Environment Metrics:
+  3. Satisfaction & Environment Metrics:
 
 - Work-Life Balance: Excellent, Good, Fair, Poor.
 
