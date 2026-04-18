@@ -23,55 +23,55 @@ The 24 columns can be categorized into three main groups:
 
   1. Demographics & Personal Info:
 
-- Age: Ranging from 18 to 59 years (Average: 38 years).
+  - Age: Ranging from 18 to 59 years (Average: 38 years).
 
-- Gender: Male, Female, etc.
+  - Gender: Male, Female, etc.
 
-- Marital Status: Married, Single, Divorced.
+  - Marital Status: Married, Single, Divorced.
 
-- Number of Dependents: Ranges from 0 to 6.
+  - Number of Dependents: Ranges from 0 to 6.
 
-- Distance from Home: Distance of the employee's commute (ranges from 1 to 99 units/miles).
+  - Distance from Home: Distance of the employee's commute (ranges from 1 to 99 units/miles).
 
-- Education Level: E.g., Associate Degree, Bachelor's Degree, Master's Degree.
+  - Education Level: E.g., Associate Degree, Bachelor's Degree, Master's Degree.
 
   2. Employment details:
 
-- Employee ID: Unique identifier for each employee.
+  - Employee ID: Unique identifier for each employee.
 
-- Job Role: The department/field (e.g., Healthcare, Education, Finance, Media, Technology).
+  - Job Role: The department/field (e.g., Healthcare, Education, Finance, Media, Technology).
 
-- Job Level: Entry, Mid, Senior.
+  - Job Level: Entry, Mid, Senior.
 
-- Years at Company: Ranges from 1 to 51 years (Average: ~15.6 years).
+  - Years at Company: Ranges from 1 to 51 years (Average: ~15.6 years).
 
-- Company Tenure: Overall tenure length (Ranges from 2 to 127 months).
+  - Company Tenure: Overall tenure length (Ranges from 2 to 127 months).
 
-- Monthly Income: Salary ranging from 1,226 to 15,063 (Average: ~7,287).
+  - Monthly Income: Salary ranging from 1,226 to 15,063 (Average: ~7,287).
 
-- Number of Promotions: Number of times promoted (0 to 4 times).
+  - Number of Promotions: Number of times promoted (0 to 4 times).
 
-- Company Size: Small, Medium, Large.
+  - Company Size: Small, Medium, Large.
 
-- Remote Work: Indicates if they work remotely (Yes/No).
+  - Remote Work: Indicates if they work remotely (Yes/No).
 
-- Overtime: Indicates if they regularly work overtime (Yes/No).
+  - Overtime: Indicates if they regularly work overtime (Yes/No).
 
   3. Satisfaction & Environment Metrics:
 
-- Work-Life Balance: Excellent, Good, Fair, Poor.
+  - Work-Life Balance: Excellent, Good, Fair, Poor.
 
-- Job Satisfaction: Very High, High, Medium, Low.
+  - Job Satisfaction: Very High, High, Medium, Low.
 
-- Performance Rating: Average, High, etc.
+  - Performance Rating: Average, High, etc.
 
-- Company Reputation: Poor, Good, etc.
+  - Company Reputation: Poor, Good, etc.
 
-- Employee Recognition: Low, Medium, High.
+  - Employee Recognition: Low, Medium, High.
 
-- Leadership Opportunities: (Yes/No)
+  - Leadership Opportunities: (Yes/No)
 
-- Innovation Opportunities: (Yes/No)
+  - Innovation Opportunities: (Yes/No)
 
 4. Target Variable:
 
