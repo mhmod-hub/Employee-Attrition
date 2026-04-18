@@ -52,6 +52,7 @@ The average employee commute (Distance from Home) is roughly 50 units.
 
 ## Methodology
 1. Data Cleaning
+
 One of the key advantages of this project was the high quality of the initial dataset. Upon initial inspection, it was confirmed that the dataset contained 14,900 records and 24 features with zero missing values or duplicated rows. Because the data was already perfectly clean and well-structured out of the box, standard data cleaning steps—such as missing value imputation, fixing inconsistencies, or outlier removal—were entirely unnecessary. The only structural adjustment made before analysis was dropping the Employee ID column, as it serves solely as a unique identifier and holds no predictive value for the machine learning models.
 
 2. Exploratory Data Analysis (EDA)
