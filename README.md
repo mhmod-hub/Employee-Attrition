@@ -91,27 +91,27 @@ The objective of this project is to develop a machine learning classification mo
     One of the key advantages of this project was the high quality of the initial dataset. Upon initial inspection, it was confirmed that the dataset contained 14,900 records and 24 features with zero missing values or duplicated rows. Because the data was already perfectly clean and well-structured out of the box, standard data cleaning steps—such as missing value imputation, fixing inconsistencies, or outlier removal—were entirely unnecessary. The only structural adjustment made before analysis was dropping the Employee ID column, as it serves solely as a unique identifier and holds no predictive value for the machine learning models.
 
 2. Exploratory Data Analysis (EDA)
-- Before building the predictive models, a comprehensive Exploratory Data Analysis (EDA) was conducted to uncover underlying patterns, correlations, and business insights. Key analytical steps included:
+    - Before building the predictive models, a comprehensive Exploratory Data Analysis (EDA) was conducted to uncover underlying patterns, correlations, and business insights. Key analytical steps included:
 
-- Target Variable Distribution: A visual inspection of the Attrition target variable was performed to understand the proportion of employees who stayed versus those who left, helping to identify if there was a class imbalance.
+    - Target Variable Distribution: A visual inspection of the Attrition target variable was performed to understand the proportion of employees who stayed versus those who left, helping to identify if there was a class imbalance.
 
-- Feature Distributions: Statistical summaries and distributions of numerical features like Age, Monthly Income, and Years at Company were analyzed to understand the demographic and financial makeup of the workforce.
+    - Feature Distributions: Statistical summaries and distributions of numerical features like Age, Monthly Income, and Years at Company were analyzed to understand the demographic and financial makeup of the workforce.
 
-- Feature Relationships: We explored how different categorical and numerical features (e.g., Work-Life Balance, Job Satisfaction, and Distance from Home) impacted the likelihood of an employee leaving the company.
+    - Feature Relationships: We explored how different categorical and numerical features (e.g., Work-Life Balance, Job Satisfaction, and Distance from Home) impacted the likelihood of an employee leaving the company.
 
 3. Modeling
 
     Since employee attrition prediction is a binary classification problem (Stayed vs. Left), we opted to train and evaluate multiple machine learning algorithms to compare their performance and select the one that best captured the underlying patterns in the HR data. The models implemented included:
 
-- Logistic Regression: Used as a baseline model due to its simplicity, efficiency, and high interpretability.
+    - Logistic Regression: Used as a baseline model due to its simplicity, efficiency, and high interpretability.
 
-- Support Vector Machine (SVM): Implemented to capture complex boundaries between the two employee classes in high-dimensional space.
+    - Support Vector Machine (SVM): Implemented to capture complex boundaries between the two employee classes in high-dimensional space.
 
-- XGBoost: A powerful gradient boosting framework utilized to maximize predictive accuracy and handle complex feature interactions.
+    - XGBoost: A powerful gradient boosting framework utilized to maximize predictive accuracy and handle complex feature interactions.
 
 - Hyperparameter Tuning: We utilized Random Search (RandomizedSearchCV) across our models to systematically fine-tune hyperparameters. This step ensured we achieved the highest possible accuracy and generalization without overfitting the training data.
 
-Each model was evaluated to ensure the final selected algorithm was highly reliable in identifying at-risk employees.
+    Each model was evaluated to ensure the final selected algorithm was highly reliable in identifying at-risk employees.
 
 
 ## Results
