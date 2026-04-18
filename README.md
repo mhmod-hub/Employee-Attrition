@@ -11,15 +11,15 @@ The objective of this project is to develop a machine learning classification mo
 ## Dataset
 1. General Overview
 
-Total Rows (Records): 14,900 employees
+    Total Rows (Records): 14,900 employees
 
-Total Columns (Features): 24
+    Total Columns (Features): 24
 
-Missing Values: None (All columns have 14,900 non-null values, making it a very clean dataset).
+    Missing Values: None (All columns have 14,900 non-null values, making it a very clean dataset).
 
 2. Dataset Features
 
-The 24 columns can be categorized into three main groups:
+    The 24 columns can be categorized into three main groups:
 
     1. Demographics & Personal Info:
 
